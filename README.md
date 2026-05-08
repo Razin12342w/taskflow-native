@@ -2,6 +2,9 @@
 
 A simple task management mobile app built with React Native.
 
+## Screenshot
+![TaskFlow App Screenshot] (taskflow-home.png)
+
 ## Features
 - Add tasks
 - View task list
